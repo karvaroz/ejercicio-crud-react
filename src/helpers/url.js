@@ -1,0 +1,1 @@
+export const url = "https://crud-react-karvaroz.herokuapp.com/registros/";
